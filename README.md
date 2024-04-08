@@ -1,4 +1,4 @@
-# monument-recognition
+# deepfake-detection
 The DeepFake Detection Web Application is a web application designed to identify whether uploaded videos are authentic or deepfake. 
 
 The detection model is based on CNN with LSTM architecture that scrutinizes the temporal facial movement characteristics within videos to determine their authenticity. The model is trained on the preprocessed dataset. The dataset is preprocessed by resizing, cropping face area and extracting landmarks, blendshapes and facial crops from the cropped face. Further, the model is tested to ensure its effectiveness and performance.
