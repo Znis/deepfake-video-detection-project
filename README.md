@@ -6,7 +6,7 @@ The detection model is based on CNN with LSTM architecture that scrutinizes the 
 The web application offers a user-friendly interface, built using ReactJS. It connects seamlessly with the backend inference server through a FastAPI-based Python API. Moreover, the web app features account sign-in and sign-up functionalities, facilitating convenient access to user-uploaded videos.
 
 For the further information on the project like dataset, model performance etc., please refer the documentation provided in the code section.
-For the access to the dataset and model weights, please contact us at [Deepfakedetectionprojectkhwopa@gmail.com].(mailto:deepfakedetectionprojectkhwopa@gmail.com)
+For the access to the dataset and model weights, please contact us at [Deepfakedetectionprojectkhwopa@gmail.com](mailto:deepfakedetectionprojectkhwopa@gmail.com).
 
 ## Installation
 A. Train Jupyter Notebook and API Source Code:
